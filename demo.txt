@@ -1,0 +1,6 @@
+#Write a Python function  to reverse a string.
+#Write a Python function that takes a list and returns a new list with unique elements of the first list.
+#Write a Python function to print the even numbers from a given list.
+
+#Write a Python function to create and print a list where the values are square of numbers between 1 and 30 (both included)
+#Write a Python function that invoke a given function after specific milliseconds.
